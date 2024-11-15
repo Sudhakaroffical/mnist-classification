@@ -126,7 +126,7 @@ metrics = pd.DataFrame(model.history.history)
 metrics.head()
 
 metrics[['accuracy','val_accuracy']].plot()
-print("YUVASAKTHI N.C \n212222240120")
+print("SUDHAKAR K \n212222240107")
 
 metrics[['loss','val_loss']].plot()
 print("SUDHAKAR K \n212222240107")
